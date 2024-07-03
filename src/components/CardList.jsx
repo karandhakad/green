@@ -42,6 +42,7 @@ function CardList() {
         {
           return card.price >= 300 && card.price <= 500
         }
+      return filteredCards
     }) : filteredCards
 
 
