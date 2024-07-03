@@ -105,7 +105,7 @@ function ShowCard() {
                     </p>
                   </div>
                   <div className="cardBtn2">
-                    Add to Cart <img src={cartLogo} alt="" />
+                    Buy Now <i class="fa-solid fa-cart-arrow-down"></i>
                   </div>
                 </div>
                 <div className="card-catTag">

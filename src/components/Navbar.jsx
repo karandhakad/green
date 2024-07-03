@@ -27,7 +27,9 @@ function Navbar() {
                   <Link to='/card-list'>
                       <li>Shop</li>
                     </Link>
+                  <Link to='/add-to-cart'>
                     <li>Cart</li>
+                    </Link>
                     <li>Offers</li>
                 </ul>
             </div>
@@ -63,7 +65,9 @@ function Navbar() {
                     <Link to='/card-list'>
                       <li>Shop</li>
                     </Link>
-                      <li>Cart</li>
+                    <Link to='/add-to-cart'>
+                    <li>Cart</li>
+                    </Link>
                       <li>Offers</li>
                   </ul>
             </div>
